@@ -23,10 +23,6 @@ Daily Task Management is a simple, web-based application designed to help users 
 ![Daily Task Management Screenshot](TaskManagment.png)
 
 
-## 🔗 Live Demo
-
-*(Provide a live demo link if available)*
-
 ## ⚙️ Installation
 
 1. Clone the repository:
